@@ -1,0 +1,39 @@
+{
+    "customer" : [
+    {
+        "telno" : "01030018820",
+        "gbn" : "ARS",
+        "data" :
+            {
+                "result_cd": "000",
+                "result_msg" : "success",
+                "name" : "엄태연0"
+            }
+    },
+    
+    {
+        "telno" : "01030018821",
+        "gbn" : "ARS",
+        "data" :
+            {
+                "result_cd": "000",
+                "result_msg" : "success",
+                "name" : "엄태연1"
+            }
+    },
+
+    {
+        "telno" : "01030018822",
+        "gbn" : "ARS",
+        "data" :
+            {
+                "result_cd": "999",
+                "result_msg" : "error",
+                "name" : ""
+            }
+    }    
+    
+    
+    ]
+    
+}
