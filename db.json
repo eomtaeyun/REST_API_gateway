@@ -7,7 +7,7 @@
       "age": 29,
       "secretIdentity": "Dan Jukes",
       "result": [
-        "000",
+        "1000",
         "success",
         "가가가"
       ]
@@ -17,7 +17,7 @@
       "age": 39,
       "secretIdentity": "Jane Wilson",
       "result": [
-        "000",
+        "2000",
         "success",
         "나나나"
       ]
@@ -27,7 +27,7 @@
       "age": 40,
       "secretIdentity": "Unknown",
       "result": [
-        "001",
+        "3000",
         "success",
         "다다다"
       ]
