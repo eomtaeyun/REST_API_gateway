@@ -1,39 +1,39 @@
 {
-    "customer" : [
+  "squadName": "Super hero squad",
+  "homeTown": "Metro City",
+  "formed": 2022,
+  "secretBase": "Super power",
+  "active": true,
+  "members": [
     {
-        "telno" : "01030018820",
-        "gbn" : "ARS",
-        "data" :
-            {
-                "result_cd": "000",
-                "result_msg" : "success",
-                "name" : "엄태연0"
-            }
+      "telno": "01030018820",
+      "age": 29,
+      "secretIdentity": "Dan Jukes",
+      "result": [
+        "000",
+        "success",
+        "가가가"
+      ]
     },
-    
     {
-        "telno" : "01030018821",
-        "gbn" : "ARS",
-        "data" :
-            {
-                "result_cd": "000",
-                "result_msg" : "success",
-                "name" : "엄태연1"
-            }
+      "telno": "01030018821",        
+      "age": 39,
+      "secretIdentity": "Jane Wilson",
+      "result": [
+        "000",
+        "success",
+        "나나나"
+      ]
     },
-
     {
-        "telno" : "01030018822",
-        "gbn" : "ARS",
-        "data" :
-            {
-                "result_cd": "999",
-                "result_msg" : "error",
-                "name" : ""
-            }
-    }    
-    
-    
-    ]
-    
+      "telno": "01030018822",        
+      "age": 40,
+      "secretIdentity": "Unknown",
+      "result": [
+        "000",
+        "success",
+        "다다다"
+      ]
+    }
+  ]
 }
