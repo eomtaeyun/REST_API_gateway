@@ -1,14 +1,4 @@
 {
-    
-    "acos": [	
-    {
-        "firstName": "John",
-        "lastName" : "doe",
-        "address"  : {
-            "streetAddress": "naist street",
-            "city"         : "Nara",
-            "postalCode"   : "630-0192"
-        },
     "phoneNumbers": [
         {
         "type"  : "VVIP",
@@ -43,7 +33,4 @@
         "number": "01030018823"
         }
     ]
-
-    }
-    ]   
 } 
