@@ -1,7 +1,6 @@
 {
   "firstName": "John",
   "lastName" : "doe",
-  "age"      : 26,
   "address"  : {
     "streetAddress": "naist street",
     "city"         : "Nara",
