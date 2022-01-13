@@ -3,8 +3,6 @@
     {
         "telno" : "01030018820",
         "gbn" : "ARS",
-        "verified": true,
-		"failureList": null,
         "data" :
             {
                 "result_cd": "000",
@@ -16,8 +14,6 @@
     {
         "telno" : "01030018821",
         "gbn" : "ARS",
-        "verified": true,
-		"failureList": null,
         "data" :
             {
                 "result_cd": "000",
@@ -29,8 +25,6 @@
     {
         "telno" : "01030018822",
         "gbn" : "ARS",
-        "verified": true,
-		"failureList": null,
         "data" :
             {
                 "result_cd": "999",
