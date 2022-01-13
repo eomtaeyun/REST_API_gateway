@@ -1,38 +1,44 @@
 {
-  "secretBase" : "Super tower",
-  "active" : true,
-  "members" : [
+  "firstName": "John",
+  "lastName" : "doe",
+  "age"      : 26,
+  "address"  : {
+    "streetAddress": "naist street",
+    "city"         : "Nara",
+    "postalCode"   : "630-0192"
+  },
+  "phoneNumbers": [
     {
-      "name" : "Molecule Man",
-      "age" : 29,
-      "secretIdentity" : "Dan Jukes",
-      "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
-      ]
+      "type"  : "VVIP",
+      "result_cd"  : "000",
+      "result_msg"  : "success",
+      "result_name"  : "엄태연0",
+      "result_age"  : 20,
+      "number": "01030018820"
     },
     {
-      "name" : "Madame Uppercut",
-      "age" : 39,
-      "secretIdentity" : "Jane Wilson",
-      "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
-      ]
-    },
+      "type"  : "VIP",
+      "result_cd"  : "001",
+      "result_msg"  : "success",
+      "result_name"  : "엄태연1",  
+      "result_age"  : 30,
+      "number": "01030018821"
+    },    
     {
-      "name" : "Eternal Flame",
-      "age" : 1000000,
-      "secretIdentity" : "Unknown",
-      "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
-      ]
+      "type"  : "MVP",
+      "result_cd"  : "400",
+      "result_msg"  : "success",
+      "result_name"  : "엄태연2",
+      "result_age"  : 40,
+      "number": "01030018822"
+    },    
+    {
+      "type"  : "BLK",
+      "result_cd"  : "999",
+      "result_msg"  : "success",
+      "result_name"  : "엄태연3",  
+      "result_age"  : 50,
+      "number": "01030018823"
     }
   ]
 }
