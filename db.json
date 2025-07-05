@@ -4,15 +4,15 @@
         "type"  : "VVIP",
         "result_cd"  : "000",
         "result_msg"  : "success",
-        "result_name"  : "엄태연0",
+        "result_name"  : "가나다0",
         "result_age"  : 20,
-        "number": "01030018820"
+        "number": "0102237788"
         },
         {
         "type"  : "VIP",
         "result_cd"  : "001",
         "result_msg"  : "success",
-        "result_name"  : "엄태연1",  
+        "result_name"  : "가나다1",  
         "result_age"  : 30,
         "number": "01030018821"
         },    
@@ -20,15 +20,15 @@
         "type"  : "MVP",
         "result_cd"  : "400",
         "result_msg"  : "success",
-        "result_name"  : "엄태연2",
+        "result_name"  : "가나다2",
         "result_age"  : 40,
-        "number": "01030018822"
+        "number": "01023419988"
         },    
         {
         "type"  : "BLK",
         "result_cd"  : "999",
         "result_msg"  : "success",
-        "result_name"  : "엄태연3",  
+        "result_name"  : "가나다3",  
         "result_age"  : 50,
         "number": "01030018823"
         }
